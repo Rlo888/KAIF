@@ -78,6 +78,7 @@ a:hover{
    padding:1px;
    order:3;
    background-color: white;
+    object-fit:cover;
 }
 h2_container{
     display: flex;
